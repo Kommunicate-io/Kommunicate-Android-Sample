@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package io.kommunicate.androidsample;
 
 import org.junit.Test;
 
