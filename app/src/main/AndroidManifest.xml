@@ -11,7 +11,8 @@
         android:theme="@style/Theme.KommunicateSample">
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/ApplozicTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
